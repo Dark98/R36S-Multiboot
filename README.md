@@ -1,6 +1,6 @@
-# [EatPrilosec/R36S-Multiboot is my testing repo](https://github.com/EatPrilosec/R36S-Multiboot)
+# [Dark98/R36S-Multiboot-testing is my testing repo](https://github.com/Dark98/R36S-Multiboot-testing)
 
-# [Releases are at r36s-stuff.github.io/R36S-Multiboot](https://r36s-stuff.github.io/R36S-Multiboot)
+# [Releases are at Dark98.github.io/R36S-Multiboot](https://Dark98.github.io/R36S-Multiboot)
 
 # Gameconsole R36S Multiboot images (and builder)
 Shoutout to the [R36S Handheld Wiki](https://handhelds.wiki/R36S_Handheld_Wiki)
@@ -8,7 +8,7 @@ Shoutout to the [R36S Handheld Wiki](https://handhelds.wiki/R36S_Handheld_Wiki)
 
 ## Installation
 - Image(s) are big and split into parts for github release.
-    - [get all the numbered files from the DL page(7z.001, 7z.002, etc)](https://r36s-stuff.github.io/R36S-Multiboot) and extract it with 7zip or nanaZip.
+    - [get all the numbered files from the DL page(7z.001, 7z.002, etc)](https://Dark98.github.io/R36S-Multiboot) and extract it with 7zip or nanaZip.
         - (linux users, i've found p7zip to be unreliable, try the official 7zip or official rar if you have issues.)
         - flahsing from android? let me know if you get that to work, so i can make a guide for others.
 
@@ -202,7 +202,7 @@ do not afraid, its EZ.
 ### Notes
 - Armbian standalone images are at [R36S-Stuff/R36S-Armbian](https://github.com/R36S-Stuff/R36S-Armbian/releases/latest)
 - Image(s) are big and most likely split into parts for github release.
-    - [get all the numbered files from the dl page(.001, .002, etc)](https://r36s-stuff.github.io/R36S-Multiboot) and extract it with 7zip or nanaZip.
+    - [get all the numbered files from the dl page(.001, .002, etc)](https://Dark98.github.io/R36S-Multiboot) and extract it with 7zip or nanaZip.
     - (linux users, i've found p7zip to be unreliable, try the official 7zip or official rar if you have issues.)
     - flahsing from android? let me know if you get that to work, so i can make a guide for others.
 
